@@ -1,0 +1,5 @@
+{:map    {:justify     {:max-variance 1000}
+          :respect-nl? true
+          :sort?       nil}
+ :vector {:respect-nl? true}
+ :width  1000}
